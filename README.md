@@ -1,3 +1,3 @@
-# mathe-abivorbereitung
+# Vorbereitung auf das MAteh-Abi 2020
 
-Lernplan und Aufgaben für die Vorbereitung auf das bayerische Abi 2020
+[Themen](fahrplan.md)
