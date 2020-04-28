@@ -1,4 +1,4 @@
-# Vorbereitung auf das MAteh-Abi 2020
+# Vorbereitung auf das Mathe-Abi 2020
 
 [Themen](themen.md) mit Links zu Material und/oder Zusammenfassungen
 
