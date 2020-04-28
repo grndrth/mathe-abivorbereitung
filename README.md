@@ -1,6 +1,6 @@
 # Vorbereitung auf das Mathe-Abi 2020
 
-[Themen](themen.md) mit Links zu Material und/oder Zusammenfassungen
+**[Themen](themen.md)** mit Links zu Material und/oder Zusammenfassungen.
 
 # Fahrplan
 
